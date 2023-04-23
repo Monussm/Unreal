@@ -1,0 +1,57 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.bigcontainer{
+
+background-color: blue;
+
+
+
+}
+.secondcontainer{
+
+background-color: blue;
+width: 100vw;
+/* height: 100vh; */
+
+
+}
+.boostpersonal{
+
+margin-top: 50px;
+
+
+}
+.alllink{
+
+background-color: red;
+color: white;
+border: 3px solid red;
+border-radius: 10px;
+text-align: center;
+
+
+}
+.hovereffect{
+    background-color: white;
+    border-radius: 5px;
+    height: 158px;
+    width: 193px;
+    font-weight: bold;
+    box-shadow: 0px 1px 10px -1px rgb(147, 146, 146);
+
+
+}
+.hovereffect:hover{
+
+background-color: rgb(8, 118, 252);
+color: white;
+font-weight: bold;
+
+
+
+}
